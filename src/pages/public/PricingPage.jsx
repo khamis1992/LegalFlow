@@ -63,7 +63,7 @@ function PricingPage() {
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center gap-2">
               <Building2 className="w-8 h-8 text-primary-600" />
-              <span className="text-2xl font-bold text-primary-600">LawTec ERP</span>
+              <span className="text-2xl font-bold text-primary-600">LegalFlow</span>
             </Link>
             
             <nav className="hidden md:flex items-center gap-6">
@@ -209,7 +209,7 @@ function PricingPage() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-gray-400">© 2025 LawTec ERP. جميع الحقوق محفوظة</p>
+          <p className="text-gray-400">© 2025 LegalFlow. جميع الحقوق محفوظة</p>
         </div>
       </footer>
     </div>

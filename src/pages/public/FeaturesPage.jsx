@@ -134,7 +134,7 @@ function FeaturesPage() {
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center gap-2">
               <Building2 className="w-8 h-8 text-primary-600" />
-              <span className="text-2xl font-bold text-primary-600">LawTec ERP</span>
+              <span className="text-2xl font-bold text-primary-600">LegalFlow</span>
             </Link>
             
             <nav className="hidden md:flex items-center gap-6">
@@ -166,7 +166,7 @@ function FeaturesPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-4">الميزات الكاملة</h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            اكتشف جميع الميزات والإمكانيات التي يوفرها نظام LawTec ERP لإدارة مكتبك باحترافية
+            اكتشف جميع الميزات والإمكانيات التي يوفرها نظام LegalFlow لإدارة مكتبك باحترافية
           </p>
         </div>
       </section>
@@ -210,7 +210,7 @@ function FeaturesPage() {
             جاهز لتجربة جميع هذه الميزات؟
           </h2>
           <p className="text-primary-100 text-lg mb-8">
-            ابدأ تجربتك المجانية الآن واكتشف كيف يمكن لـ LawTec ERP تحسين عملك
+            ابدأ تجربتك المجانية الآن واكتشف كيف يمكن لـ LegalFlow تحسين عملك
           </p>
           <Link 
             to="/register" 
@@ -225,7 +225,7 @@ function FeaturesPage() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-4 text-center">
-          <p className="text-gray-400">© 2025 LawTec ERP. جميع الحقوق محفوظة</p>
+          <p className="text-gray-400">© 2025 LegalFlow. جميع الحقوق محفوظة</p>
         </div>
       </footer>
     </div>

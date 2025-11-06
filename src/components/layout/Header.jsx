@@ -45,7 +45,7 @@ function Header({ onToggleSidebar }) {
 
         {/* الشعار */}
         <div className="flex items-center gap-2">
-          <span className="text-xl font-bold text-primary-600">LawTec ERP</span>
+          <span className="text-xl font-bold text-primary-600">LegalFlow</span>
         </div>
 
         {/* الإجراءات */}

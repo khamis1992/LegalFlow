@@ -70,7 +70,7 @@ function LandingPage() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center gap-2">
               <Building2 className="w-8 h-8 text-primary-600" />
-              <span className="text-2xl font-bold text-primary-600">LawTec ERP</span>
+              <span className="text-2xl font-bold text-primary-600">LegalFlow</span>
             </div>
             
             <nav className="hidden md:flex items-center gap-6">
@@ -230,7 +230,7 @@ function LandingPage() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Building2 className="w-6 h-6" />
-                <span className="text-xl font-bold">LawTec ERP</span>
+                <span className="text-xl font-bold">LegalFlow</span>
               </div>
               <p className="text-gray-400">
                 نظام إدارة متكامل لمكاتب المحاماة
@@ -263,7 +263,7 @@ function LandingPage() {
           </div>
 
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>© 2025 LawTec ERP. جميع الحقوق محفوظة</p>
+              <p>© 2025 LegalFlow. جميع الحقوق محفوظة</p>
           </div>
         </div>
       </footer>

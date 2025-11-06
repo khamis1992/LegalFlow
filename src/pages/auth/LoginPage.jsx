@@ -54,7 +54,7 @@ function LoginPage() {
       <div className="w-full max-w-md">
         {/* الشعار */}
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-primary-600 mb-2">LawTec ERP</h1>
+          <h1 className="text-4xl font-bold text-primary-600 mb-2">LegalFlow</h1>
           <p className="text-gray-600">نظام إدارة مكاتب المحاماة</p>
         </div>
 

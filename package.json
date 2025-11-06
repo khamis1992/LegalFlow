@@ -1,7 +1,7 @@
 {
-  "name": "lawtec-erp",
+  "name": "legalflow-erp",
   "version": "1.0.0",
-  "description": "نظام ERP شامل لإدارة مكاتب المحاماة - SaaS Platform",
+  "description": "LegalFlow - نظام ERP شامل لإدارة مكاتب المحاماة - SaaS Platform",
   "type": "module",
   "scripts": {
     "dev": "vite",
